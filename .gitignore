@@ -1,0 +1,16 @@
+.DS_Store
+.atom/
+.idea
+.vscode/
+.packages
+.pub/
+build/
+ios/.generated/
+packages
+.flutter-plugins
+/.metadata
+/pubspec.lock
+/wordis_mobile_android.iml
+/wordis_mobile.iml
+/android/
+/ios/
